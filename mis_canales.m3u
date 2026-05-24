@@ -3,6 +3,9 @@
 #EXTINF:-1 tvg-id="Historia.us" tvg-name="Historia" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entretenimiento",Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
 
+#EXTINF:-1 tvg-id="SangreFria.cl" tvg-name="Sangre Fría" tvg-logo="https://images.pluto.tv/channels/64ddcbb14c5ed80008fad416/colorLogoPNG.png" group-title="Entretenimiento",Sangre Fría
+https://stream.ads.ottera.tv/cl/260524d89nm1963ouc73enc3q0/1280x720_3071200_0_f.m3u8
+
 #EXTINF:-1 tvg-id="RakutenActionMovies.es" tvg-name="Rakuten Acción" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten Acción
 https://a9c57ec7ec5e4b7daeacc6316a0bb404.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6069/master.m3u8
 
