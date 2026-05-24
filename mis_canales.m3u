@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/maldoxs/mi-iptv-personal/refs/heads/develop/guide.xml" tvg-shift="-3" refresh="43200"
+#EXTM3U tvg-shift="-3" refresh="43200"
 
 #EXTINF:-1 tvg-id="TVN.cl" tvg-name="TVN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/TVN_Chile_logo.svg/240px-TVN_Chile_logo.svg.png" group-title="Chile",TVN
 http://217.26.190.76:8888/play/a0m6/index.m3u8
