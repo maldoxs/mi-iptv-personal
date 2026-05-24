@@ -261,6 +261,9 @@ https://jmp2.uk/plu-5e8db96bccae160007c71eec.m3u8
 #EXTINF:-1 tvg-id="Gunsmoke.us" tvg-name="Gunsmoke" tvg-logo="https://i.imgur.com/OxUS1Hq.png" group-title="Series",Gunsmoke
 https://jmp2.uk/plu-68503d1736c9361b191e7d89.m3u8
 
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/History_Channel_International_logo.svg/240px-History_Channel_International_logo.svg.png" group-title="Entretenimiento",Historia
+https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
+
 #EXTINF:-1 tvg-id="13Festival.cl" tvg-name="13 Festival" tvg-logo="https://i.imgur.com/hGQSBPY.png" group-title="Radio",13 Festival
 https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8
 
