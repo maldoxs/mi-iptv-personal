@@ -1,6 +1,6 @@
 El archivo `reproduccion.md` ha sido generado con éxito con la URL pura y una guía de configuración rápida incorporada.
 
-[file-tag: code-generated-file-0-1779643845138843505]
+https://raw.githubusercontent.com/maldoxs/mi-iptv-personal/refs/heads/develop/mis_canales.m3u
 
 ### 🚀 ¿Cómo agregarlo a tu repositorio desde la terminal de VS Code?
 
