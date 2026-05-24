@@ -1,6 +1,6 @@
 #EXTM3U tvg-shift="-3" refresh="43200"
 
-#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/History_Channel_International_logo.svg/240px-History_Channel_International_logo.svg.png" group-title="Entretenimiento",Historia
+#EXTINF:-1 tvg-id="Historia.us" tvg-name="Historia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/History_Channel_logo_%282023%29.svg/240px-History_Channel_logo_%282023%29.svg.png" group-title="Entretenimiento",Historia
 https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
 
 #EXTINF:-1 tvg-id="RakutenActionMovies.es" tvg-name="Rakuten Acción" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten Acción
