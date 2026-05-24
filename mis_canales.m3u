@@ -1,0 +1,10 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="0ae8d67d-2284-4e26-a2f9-4ba1b2819ff9" tvg-name="Nick Jr. HD" group-title="Infantiles",Nick Jr. HD
+http://aqui-va-el-link-de-tu-transmision.m3u8
+
+#EXTINF:-1 tvg-id="0ec985b3-ff79-4bca-8a07-09a164888201" tvg-name="HBO West" group-title="Películas",HBO West
+http://aqui-va-otro-link.m3u8
+
+#EXTINF:-1 tvg-id="0a0b9eee-e635-4d0c-a901-4b9d20cc3f14" tvg-name="NBC Sports Boston" group-title="Deportes",NBC Sports Boston
+http://aqui-va-el-link-de-deportes.m3u8
