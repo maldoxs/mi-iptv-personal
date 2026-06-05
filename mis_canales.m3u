@@ -1,6 +1,6 @@
 #EXTM3U tvg-shift="-3" refresh="43200"
 
-#EXTINF:-1 tvg-id="Historia.us" tvg-name="Canal History" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entretenimiento",AMC HD
+#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC HD" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entretenimiento",AMC HD
 https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
 
 #EXTINF:-1 tvg-id="Historia.us" tvg-name="Canal History" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entretenimiento",Canal History
