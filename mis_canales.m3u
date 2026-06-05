@@ -1,23 +1,31 @@
 #EXTM3U tvg-shift="-3" refresh="43200"
 
 
-#EXTINF:-1 tvg-id="Historia.us" tvg-name="Canal History" tvg-logo="https://i.imgur.com/VUy8xIG.png" group-title="Entretenimiento",Canal History
-https://d1k3vzh2ivy22k.cloudfront.net/Historia1080.m3u8
+#EXTM3U
 
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Infantil",Cartoon Network
 https://player.magmaplayer.com/api/channels/WdXb8X9Qlz/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AMC.us" tvg-name="AMC HD" group-title="Entretenimiento",AMC HD
-http://ts2.tvcluboficial.com:5503/AMC_HD/playlist.m3u8
+#EXTINF:-1 tvg-id="BobEsponja.tv" tvg-name="Bob Esponja 24/7" group-title="Infantil",Bob Esponja 24/7
+https://player.magmaplayer.com/api/channels/WW6Z7cgrLB/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOfamily.us" tvg-name="HBO Family" group-title="Entretenimiento",HBO Family
 https://player.magmaplayer.com/api/channels/190Dpss8Gy/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" group-title="Entretenimiento",Cinemax
+https://player.magmaplayer.com/api/channels/XtiEbOdfkJ/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.us" tvg-name="Discovery Channel HD" group-title="Documentales",Discovery Channel HD
 https://player.magmaplayer.com/api/channels/nAJB5OHStq/playlist.m3u8
 
 #EXTINF:-1 tvg-id="History.us" tvg-name="History Channel HD" group-title="Documentales",History Channel HD
 https://player.magmaplayer.com/api/channels/99Am7UGcy7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" group-title="Documentales",Animal Planet
+https://player.magmaplayer.com/api/channels/w1UNO0gv39/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDF Premium" group-title="Deportes",CDF Premium
+https://player.magmaplayer.com/api/channels/Cb6VtWhacp/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="RakutenActionMovies.es" tvg-name="Rakuten Acción" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten Acción
