@@ -111,10 +111,6 @@ https://player.magmaplayer.com/api/channels/w1UNO0gv39/playlist.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery HD" group-title="Documentales",Investigation Discovery HD
 https://player.magmaplayer.com/api/channels/QH0u2PhHWC/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="Nat Geo" group-title="Documentales",Nat Geo
-https://player.magmaplayer.com/api/channels/71TwHcGnQx/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="Nat Geo Wild" group-title="Documentales",Nat Geo Wild
 https://player.magmaplayer.com/api/channels/5BnjUPvI40/playlist.m3u8
 
