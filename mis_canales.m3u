@@ -3,15 +3,105 @@
 
 #EXTM3U
 
+#EXTM3U
+
+# ==================== INFANTIL ====================
 #EXTINF:-1 tvg-id="CartoonNetwork.us" tvg-name="Cartoon Network" group-title="Infantil",Cartoon Network
 https://player.magmaplayer.com/api/channels/WdXb8X9Qlz/playlist.m3u8
 
 #EXTINF:-1 tvg-id="BobEsponja.tv" tvg-name="Bob Esponja 24/7" group-title="Infantil",Bob Esponja 24/7
 https://player.magmaplayer.com/api/channels/WW6Z7cgrLB/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOfamily.us" tvg-name="HBO Family" group-title="Entretenimiento",HBO Family
+#EXTINF:-1 tvg-id="LooneyTunes.tv" tvg-name="Looney Tunes 24/7" group-title="Infantil",Looney Tunes 24/7
+https://player.magmaplayer.com/api/channels/Cn2oLmf7W7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryKids.us" tvg-name="Discovery Kids HD" group-title="Infantil",Discovery Kids HD
+https://player.magmaplayer.com/api/channels/c34MgclWmv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineInfantil.tv" tvg-name="Cine Infantil" group-title="Infantil",Cine Infantil
+https://player.magmaplayer.com/api/channels/2Myta5sts9/playlist.m3u8
+
+
+# ==================== DEPORTES ====================
+#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDF Premium" group-title="Deportes",CDF Premium
+https://player.magmaplayer.com/api/channels/Cb6VtWhacp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN1Chile.cl" tvg-name="ESPN 1 Chile" group-title="Deportes",ESPN 1 Chile
+https://player.magmaplayer.com/api/channels/hrp7kdWfef/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPNAgentina.ar" tvg-name="ESPN Argentina" group-title="Deportes",ESPN Argentina
+https://player.magmaplayer.com/api/channels/HPOq7WLax1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-name="ESPN Premium HD" group-title="Deportes",ESPN Premium HD
+https://player.magmaplayer.com/api/channels/6FGm1ZOaml/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" group-title="Deportes",ESPN
+https://player.magmaplayer.com/api/channels/KNzepEgD1X/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxDeportes.us" tvg-name="Fox Deportes" group-title="Deportes",Fox Deportes
+https://player.magmaplayer.com/api/channels/ey8AN7Cn1e/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsPremiumHD.ar" tvg-name="Fox Sports Premium HD" group-title="Deportes",Fox Sports Premium HD
+https://player.magmaplayer.com/api/channels/sL61LVGnUF/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSportsPremium.ar" tvg-name="Fox Sports Premium" group-title="Deportes",Fox Sports Premium
+https://player.magmaplayer.com/api/channels/DrvtR4EEls/playlist.m3u8
+
+
+# ==================== CINE Y SERIES ====================
+#EXTINF:-1 tvg-id="HBOfamily.us" tvg-name="HBO Family" group-title="Cine y Series",HBO Family
 https://player.magmaplayer.com/api/channels/190Dpss8Gy/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HBOHD.us" tvg-name="HBO HD" group-title="Cine y Series",HBO HD
+https://player.magmaplayer.com/api/channels/gGTqtBsAZT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBOXtreme.us" tvg-name="HBO Xtreme" group-title="Cine y Series",HBO Xtreme
+https://player.magmaplayer.com/api/channels/Hn3DdXs9HI/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax.us" tvg-name="Cinemax" group-title="Cine y Series",Cinemax
+https://player.magmaplayer.com/api/channels/XtiEbOdfkJ/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CinemaxHD.us" tvg-name="Cinemax HD" group-title="Cine y Series",Cinemax HD
+https://player.magmaplayer.com/api/channels/FZNdDQxKha/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineAccionSagas.tv" tvg-name="Cine Accion Sagas" group-title="Cine y Series",Cine Accion Sagas
+https://player.magmaplayer.com/api/channels/bkUMtTBvm1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineAccion.tv" tvg-name="Cine Accion" group-title="Cine y Series",Cine Accion
+https://player.magmaplayer.com/api/channels/GAf4OyBbOX/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cine2025.tv" tvg-name="Cine 2025" group-title="Cine y Series",Cine 2025
+https://player.magmaplayer.com/api/channels/vbbIIDnhhA/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineComedia.tv" tvg-name="Cine Comedia" group-title="Cine y Series",Cine Comedia
+https://player.magmaplayer.com/api/channels/4JFCkvcbj5/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineComedia2.tv" tvg-name="Cine Comedia 2" group-title="Cine y Series",Cine Comedia 2
+https://player.magmaplayer.com/api/channels/bEQKuPFHHi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineRomance.tv" tvg-name="Cine Romance" group-title="Cine y Series",Cine Romance
+https://player.magmaplayer.com/api/channels/ngRLe9xM4O/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CineZombis.tv" tvg-name="Cine Zombis" group-title="Cine y Series",Cine Zombis
+https://player.magmaplayer.com/api/channels/Rrz7SjiPl7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DePelicula.mx" tvg-name="De Pelicula" group-title="Cine y Series",De Pelicula
+https://player.magmaplayer.com/api/channels/ERcq55SO9e/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EuropaEuropa.us" tvg-name="Europa Europa" group-title="Cine y Series",Europa Europa
+https://player.magmaplayer.com/api/channels/FJ0EWN2y9u/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SpaceHD.us" tvg-name="Space HD" group-title="Cine y Series",Space HD
+https://player.magmaplayer.com/api/channels/5g6TRS9ApJ/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StartChannel.us" tvg-name="Start Channel" group-title="Cine y Series",Start Channel
+https://player.magmaplayer.com/api/channels/m0rNwcIqff/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StudioUniversal.us" tvg-name="Studio Universal" group-title="Cine y Series",Studio Universal
+https://player.magmaplayer.com/api/channels/myu6Nrr5xn/playlist.m3u8
+
+
+# ==================== DOCUMENTALES ====================
 #EXTINF:-1 tvg-id="Discovery.us" tvg-name="Discovery Channel HD" group-title="Documentales",Discovery Channel HD
 https://player.magmaplayer.com/api/channels/nAJB5OHStq/playlist.m3u8
 
@@ -21,8 +111,37 @@ https://player.magmaplayer.com/api/channels/99Am7UGcy7/playlist.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" group-title="Documentales",Animal Planet
 https://player.magmaplayer.com/api/channels/w1UNO0gv39/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CDFPremium.cl" tvg-name="CDF Premium" group-title="Deportes",CDF Premium
-https://player.magmaplayer.com/api/channels/Cb6VtWhacp/playlist.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="Investigation Discovery HD" group-title="Documentales",Investigation Discovery HD
+https://player.magmaplayer.com/api/channels/Hn3DdXs9HI/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatGeo.us" tvg-name="Nat Geo" group-title="Documentales",Nat Geo
+https://player.magmaplayer.com/api/channels/71TwHcGnQx/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="Nat Geo Wild" group-title="Documentales",Nat Geo Wild
+https://player.magmaplayer.com/api/channels/5BnjUPvI40/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryHH.us" tvg-name="Discovery H&H" group-title="Documentales",Discovery H&H
+https://player.magmaplayer.com/api/channels/dF9Y8lAWwA/playlist.m3u8
+
+
+# ==================== ENTRETENIMIENTO Y VARIEDADES ====================
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="Antena 3" group-title="Variedades",Antena 3
+https://player.magmaplayer.com/api/channels/aO7z9nlNoi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EEntertainment.us" tvg-name="E! Entertainment" group-title="Variedades",E! Entertainment
+https://player.magmaplayer.com/api/channels/rcWNeMkfq8/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV Live" group-title="Variedades",MTV Live
+https://player.magmaplayer.com/api/channels/mc8WgwKgpR/playlist.m3u8
+
+#EXTINF:-1 tvg-id="SonyChannel.us" tvg-name="Sony Channel" group-title="Variedades",Sony Channel
+https://player.magmaplayer.com/api/channels/BySpB3zvJV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="StartTVE.es" tvg-name="Start TVE" group-title="Variedades",Start TVE
+https://player.magmaplayer.com/api/channels/bpkg1yGqFu/playlist.m3u8
+
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN" group-title="Variedades",EWTN
+https://player.magmaplayer.com/api/channels/TE0eF0RHPm/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="RakutenActionMovies.es" tvg-name="Rakuten Acción" tvg-logo="https://i.imgur.com/Meew6eX.png" group-title="Movies",Rakuten Acción
